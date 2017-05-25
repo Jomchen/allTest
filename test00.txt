@@ -1,5 +1,1 @@
 This is test00.txt
-
-add new messages!!
-
-ADD NEW MESSAGES!!
