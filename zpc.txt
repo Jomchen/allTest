@@ -1,2 +1,2 @@
 this is zpc.txt
-zpc message00
+zpc&master message
