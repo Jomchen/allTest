@@ -1,2 +1,0 @@
-this is zpc.txt
-zpc&master message
